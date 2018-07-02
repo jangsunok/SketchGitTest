@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "BB88926A-8974-41BB-BDD0-F9791EE54E7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68274CAE-0BC2-4FF7-AD00-9BDAAE3E21A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "96EFEE05-F074-4E24-A844-BF78B87831FF",
+    "height": 25,
+    "width": 32,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E658C539-BAD9-4181-AB35-2003CAAFA2A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C9B3C2A-C585-4C24-836F-2E4D9E5A352D"
+    }
+  ],
+  "name": "baseline-network_wifi-24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7F3B01C6-E4D8-42B1-AC36-50EC661A446D",
+      "opacity": 0.3960379464285714
+    },
+    "do_objectID": "EAEA0077-5A6A-4443-9DBA-65AF250F34A1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

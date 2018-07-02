@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7C409CB1-E0AE-44E0-B3A9-C9B8333516E4",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "3C3E53B8-058C-4506-A319-C68102BD7CAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9734CC8-D4FB-4AC6-B284-A151FD9431E1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06AFAB91-F747-44A3-8F79-6871229855F0",
+    "height": 1280,
+    "width": 720,
+    "x": -7,
+    "y": -362
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -57,
+    "do_objectID": "28E53291-DA4E-40FB-A52F-9F20FB604AD8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "57AC1B1A-4DB2-4F9D-90D1-B21D7303A7F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C3C64CE-A6E6-4CA2-A147-48F8385B7B11"
+    },
+    {
+      "class": "text",
+      "id": "9496CCBF-CC09-488C-8ED9-9E615F721AB7"
+    },
+    {
+      "class": "group",
+      "id": "1081F5EC-4E86-4E8D-A463-08830540B8D9"
+    },
+    {
+      "class": "group",
+      "id": "06D46928-694E-4D76-A380-4DFA9AE68D57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6985528C-AB8C-404E-9BF0-B3F87ACA5399"
+    },
+    {
+      "class": "group",
+      "id": "729BCF92-13B5-4CD9-9132-A13B11EDF1C6"
+    },
+    {
+      "class": "group",
+      "id": "86CF79FC-C656-4DD1-820E-621C805A8AD2"
+    }
+  ],
+  "name": "홈 01",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C17B20F9-C591-4D35-8063-9A31CED9EC3A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6881BB18-105E-4986-88CF-BAACD8380FDF",
+    "guides": [
+    ]
+  }
+}
