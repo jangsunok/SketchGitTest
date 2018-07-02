@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansCJKkr-DemiLight",
+              "name": "AppleSDGothicNeo-Regular",
               "size": 38
             }
           },
@@ -30,11 +30,251 @@
             "minimumLineHeight": 70
           }
         },
-        "length": 20,
+        "length": 3,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 1,
+        "location": 3
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 3,
+        "location": 4
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 1,
+        "location": 7
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 3,
+        "location": 8
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 1,
+        "location": 11
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 2,
+        "location": 12
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 1,
+        "location": 14
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 38
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": -0.2111111,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 70,
+            "minimumLineHeight": 70
+          }
+        },
+        "length": 3,
+        "location": 15
       }
     ],
-    "string": "풀이가 필요한\n문제 사진을 찍어주세요"
+    "string": "풀이가 필요한\n텍스트 수정 테스트"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9496CCBF-CC09-488C-8ED9-9E615F721AB7",
@@ -67,14 +307,14 @@
     "x": 124,
     "y": 800
   },
-  "glyphBounds": "{{56, 19}, {361, 105}}",
+  "glyphBounds": "{{98, 15}, {279, 104}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "풀이가 필요한 문제 사진을 찍어주세요",
+  "name": "풀이가 필요한 텍스트 수정 테스트",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -100,7 +340,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansCJKkr-DemiLight",
+            "name": "AppleSDGothicNeo-Regular",
             "size": 38
           }
         },
